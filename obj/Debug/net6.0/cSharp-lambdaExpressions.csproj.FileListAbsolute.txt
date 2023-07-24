@@ -1,0 +1,15 @@
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\bin\Debug\net6.0\cSharp-lambdaExpressions.exe
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\bin\Debug\net6.0\cSharp-lambdaExpressions.deps.json
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\bin\Debug\net6.0\cSharp-lambdaExpressions.runtimeconfig.json
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\bin\Debug\net6.0\cSharp-lambdaExpressions.dll
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\bin\Debug\net6.0\cSharp-lambdaExpressions.pdb
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\obj\Debug\net6.0\cSharp-lambdaExpressions.csproj.AssemblyReference.cache
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\obj\Debug\net6.0\cSharp-lambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\obj\Debug\net6.0\cSharp-lambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\obj\Debug\net6.0\cSharp-lambdaExpressions.AssemblyInfo.cs
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\obj\Debug\net6.0\cSharp-lambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\obj\Debug\net6.0\cSharp-lambdaExpressions.dll
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\obj\Debug\net6.0\refint\cSharp-lambdaExpressions.dll
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\obj\Debug\net6.0\cSharp-lambdaExpressions.pdb
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\obj\Debug\net6.0\cSharp-lambdaExpressions.genruntimeconfig.cache
+C:\Users\TRA\source\repos\cSharp-lambdaExpressions\cSharp-lambdaExpressions\obj\Debug\net6.0\ref\cSharp-lambdaExpressions.dll
